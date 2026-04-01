@@ -1,0 +1,17 @@
+Description,Scientific Name,Max Score,Total Score,Query Cover,E value,Per. ident,Acc. Len,Accession  
+24-dehydrocholesterol reductase [Homo sapiens],Homo sapiens,65.1,65.1,27%,6e-10,29.41,528,KAI2517284.1
+delta(24)-sterol reductase precursor [Homo sapiens],Homo sapiens,65.1,65.1,27%,6e-10,29.41,516,NP_055577.1
+putative protein product of Nbla03646 [Homo sapiens],Homo sapiens,64.3,64.3,27%,7e-10,29.41,427,BAE45721.1
+unnamed protein product [Homo sapiens],Homo sapiens,63.9,63.9,27%,1e-09,29.41,475,BAH14790.1
+unnamed protein product [Homo sapiens],Homo sapiens,63.9,63.9,27%,1e-09,29.41,475,BAH13803.1
+"24-dehydrocholesterol reductase, partial [Homo sapiens]",Homo sapiens,50.4,50.4,22%,2e-06,30.93,122,KAI2517285.1
+"alkyldihydroxyacetonephosphate synthase, peroxisomal isoform X1 [Homo sapiens]",Homo sapiens,46.2,46.2,40%,5e-04,26.15,568,XP_011510343.1
+"alkyldihydroxyacetonephosphate synthase, peroxisomal precursor [Homo sapiens]",Homo sapiens,45.8,45.8,40%,8e-04,26.15,658,NP_003650.1
+"alkylglycerone phosphate synthase, isoform CRA_a [Homo sapiens]",Homo sapiens,45.4,45.4,40%,0.001,26.15,536,EAX11057.1
+"alkylglycerone phosphate synthase, isoform CRA_b [Homo sapiens]",Homo sapiens,45.4,45.4,40%,0.001,26.15,684,EAX11058.1
+unnamed protein product [Homo sapiens],Homo sapiens,44.7,44.7,40%,0.001,26.63,320,BAH14611.1
+"unknown, partial [Homo sapiens]",Homo sapiens,39.7,39.7,19%,0.048,31.87,332,AAY14986.1
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+"		",,,,,,,,
