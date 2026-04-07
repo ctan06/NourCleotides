@@ -1,0 +1,236 @@
+CLUSTAL O(1.2.4) multiple sequence alignment
+
+
+Human_GULO_pseudogene      ------------------------------------------------------------
+Rat_GULO_functional        ------------------------------------------------------------
+Mouse_GULO_functional      GCCTTTCTTGGTACCTGTGGCTAAACTTCCAGTCCCGTTCTGCCTGAGGTAACCCAGAGC
+Dog_GULO_functional        ------------------------------------------------------------
+                                                                                       
+
+Human_GULO_pseudogene      ------------------------------------------------------------
+Rat_GULO_functional        ------------------------------------------------------------
+Mouse_GULO_functional      CGAGGTTGCCTGACCACTGCATCTGCTGCTGCCCAGGGCTTTGTTCAACTTCCTGTGGGA
+Dog_GULO_functional        ------------------------------------------------------------
+                                                                                       
+
+Human_GULO_pseudogene      ------------------------------------------------------------
+Rat_GULO_functional        ---------GTCAAGTCGTCTGATCCTCCTGATCACTGGAATCATGGTCCATGGGTACAA
+Mouse_GULO_functional      ACGCTTCAAGTCAAGTCGTCTGACCCTGTTGATCGCTGGAATCATGGTCCATGGGTACAA
+Dog_GULO_functional        -------------------------------------------ATGGTCCACGGGTACAA
+                                                                                       
+
+Human_GULO_pseudogene      ------------------------------------------------------------
+Rat_GULO_functional        AGGGGTCCAGTTCCAAAATTGGGCAAAGACCTATGGTTGCAGTCCAGAGGTGTACTACCA
+Mouse_GULO_functional      AGGGGTCCAGTTCCAAAACTGGGCGAAGACCTATGGCTGCAGTCCAGAGATGTACTACCA
+Dog_GULO_functional        AGGAGTCAAGTTCCAGAACTGGGCCAGGACCTATGGCTGCTGCCCAGAAATGTACTTCCA
+                                                                                       
+
+Human_GULO_pseudogene      ------------------------------------------------------------
+Rat_GULO_functional        GCCCACCTCCGTGGAGGAGGTCAGAGAGGTGCTGGCCCTGGCCCGGGAGCAGAAGAAGAA
+Mouse_GULO_functional      GCCCACATCAGTGGGGGAGGTCAGAGAGGTGCTGGCCCTGGCCCGGCAGCAGAACAAGAA
+Dog_GULO_functional        GCCCACGTCCGTGGAGGAGGTCAGAGAGGTGCTGGCCCTGGCCAGGCAGCAGAACAAGCG
+                                                                                       
+
+Human_GULO_pseudogene      ------------------------------------------------------------
+Rat_GULO_functional        AGTGAAGGTGGTGGGTGGTGGCCACTCGCCTTCAGACATTGCCTGCACTGACGGTTTCAT
+Mouse_GULO_functional      AGTGAAGGTGGTGGGTGGCGGCCACTCGCCTTCAGACATCGCCTGCACCGATGGCTTCAT
+Dog_GULO_functional        GGTGAAGGTGGTGGGCGGTGGCCACTCACCCTCCGACATCGCCTGCACAGATGGCTTCAT
+                                                                                       
+
+Human_GULO_pseudogene      ----------------------------TTGCAGGTGGATGAGGAGAAGAAGCAGGTGAC
+Rat_GULO_functional        GATCCACATGGGCAAGATGAACCGGGTTCTCCAGGTGGACAAGGAGAAGAAGCAGGTAAC
+Mouse_GULO_functional      GATTCACATGGGCAAGATGAACCGGGTTCTCCAGGTGGACAAGGAGAAGAAGCAGGTCAC
+Dog_GULO_functional        GATCCACATGGGCAAGATGAACCGGGTTCTCCAGGTGGACACAGAGAAGAAGCAGGTGAC
+                                                        * ********    ************** **
+
+Human_GULO_pseudogene      CATGGAGGCTGGCATCCTCCTGGCCAACCTGCACCCACAGCTGGATGAGCATGGCCTGGC
+Rat_GULO_functional        AGTGGAAGCCGGTATCCTCCTGGCTGACCTGCACCCACAGCTGGATGAGCATGGCCTGGC
+Mouse_GULO_functional      AGTGGAAGCCGGTATCCTCCTGACTGACCTGCACCCACAGCTGGACAAGCATGGCCTGGC
+Dog_GULO_functional        TGTGGAGGCCGGCATCCTCCTGGCTGACCTGCACCCACAGCTGGGCAAGCACAGCCTGGC
+                             **** ** ** ********* *  ******************   ****  *******
+
+Human_GULO_pseudogene      CCTGTCCAG---------------------------------------------------
+Rat_GULO_functional        CATGTCCAATCTGGGAGCAGTGTCTGATGTGACAGTTGCTGGTGTCATTGGATCCGGAAC
+Mouse_GULO_functional      CCTGTCTAATCTGGGAGCCGTGTCTGATGTGACGGTTGGTGGCGTCATTGGGTCTGGAAC
+Dog_GULO_functional        CTTGTCCAACCTGGGAGCTGTGTCAGACGTGACTGCGGGGGGCGTCATCGGGTCCGGAAC
+                           * **** *                                                    
+
+Human_GULO_pseudogene      ------------------------------------------------------------
+Rat_GULO_functional        ACATAACACAGGGATCAAGCACGGCATCCTGGCCACTCAGGTGGTGGCCCTGACCCTGAT
+Mouse_GULO_functional      ACATAACACCGGGATCAAGCACGGTATCCTGGCCACCCAGGTGGTGGCCCTGACCCTGAT
+Dog_GULO_functional        CCATAACACAGGGATCAAACACGGCATCCTGGCCACCCAGGTGGTGGCACTGACCCTGCT
+                                                                                       
+
+Human_GULO_pseudogene      ------------------------------------------------------------
+Rat_GULO_functional        GACAGCTGATGGAGAAGTTCTGGAATGTTCTGAGTCAAGAAATGCAGATGTGTTCCAGGC
+Mouse_GULO_functional      GAAGGCTGATGGAACAGTTCTGGAATGTTCTGAGTCAAGTAATGCAGATGTGTTCCAGGC
+Dog_GULO_functional        GACGGCTGATGGGACCATTCTTGAGTGCTCTGAGTCTAGCAACGCAGACGTGTTCCAGGC
+                                                                                       
+
+Human_GULO_pseudogene      ----------------CCCAGCCTGGGCATAGTGGTAGATGTGACTGCAGCTGGCGTCGT
+Rat_GULO_functional        TGCACGGGTGCACCTGGGTTGCCTGGGTATCATCCTCACCGTCACCCTGCAGTGTGTGCC
+Mouse_GULO_functional      TGCAAGGGTGCACCTGGGCTGCCTGGGTGTTATCCTCACTGTCACCCTGCAGTGTGTGCC
+Dog_GULO_functional        CGCGCGGGTGCACCTGGGCTGCCTTGGAGTGGTCCTCACCGTCACTCTGCAGTGTGTGCC
+                                               **** **  *  *  *    ** **        * **   
+
+Human_GULO_pseudogene      TGGGTCTGGAATGCAAAACATGGGAATCAGGCCTGGCACCCCGGCCAGCCAGTTCCTCCA
+Rat_GULO_functional        TCAGTTTCACCTTCAGGAG-----ACATCCTTCCCTTCGACCCTCAAAGAGGTCCTTGAC
+Mouse_GULO_functional      ACAGTTCCACCTTCTGGAG-----ACATCCTTTCCTTCGACCCTCAAGGAGGTCCTTGAC
+Dog_GULO_functional        CCAGTTCCACCTGCAGGAG-----ATCTCCTTCCCCTCGACCCTGGAAGAGGTTCTTAAC
+                              **      * *   *      *               **    *    ** * *   
+
+Human_GULO_pseudogene      TAGCCTGGACAGCATTGGAAGAAATCTGAGGACTTCTGCTTCCTCTGGTTCCCACACAGC
+Rat_GULO_functional        AACCTAGACAGCCACCTGAAGAGGTCTGAGTACTTCCGCTTCCTCTGGTTTCCTCACACT
+Mouse_GULO_functional      AACCTGGACAGCCACCTGAAGAAGTCTGAGTACTTCCGCTTCCTCTGGTTTCCTCACAGT
+Dog_GULO_functional        AACTTGGATGGCCACCTGAAGAAATCCGAATACTTCCGCTTCCTCTGGTTCCCGCACAGT
+                            *    *     **   *****  ** **  ***** ************* ** ****  
+
+Human_GULO_pseudogene      GAGAATGTCAGTGCCATCCACCAGGACCACACCA--------------------------
+Rat_GULO_functional        GAGAACGTCAGCATCATCTACCAAGACCACACCAACAAGGCCCCCTCCTCTGCATCTAAC
+Mouse_GULO_functional      GAGAACGTCAGCATCATCTACCAAGATCACACCAACAAGGAGCCCTCCTCTGCATCTAAC
+Dog_GULO_functional        GAGAACGTCAGCGTCATCTACCAGGACCACACCAATAAGCCCCCCTCCTCTTCCGCCAAC
+                           ***** *****   **** **** ** *******                          
+
+Human_GULO_pseudogene      ---------------------------------------------------GCAAGCATC
+Rat_GULO_functional        TGGTTTTGGGACTATGCCATCGGGTTCTACCTACTGGAGTTCTTGCTCTGGACCAGCACC
+Mouse_GULO_functional      TGGTTTTGGGACTATGCCATTGGGTTCTACCTCCTGGAATTCTTGCTCTGGACCAGCACC
+Dog_GULO_functional        TGGTTTTGGGACTATGCCATCGGATTCTATCTACTGGAGTTCCTGCTCTGGATCAGTTCC
+                                                                                 **   *
+
+Human_GULO_pseudogene      TTCTTGCAGTGCCTTGTGGGCTGGATCAATGGCTTTTTGTTTCTGA--CTCCTGTTTGCC
+Rat_GULO_functional        TACCTGCCATGCCTCGTGGGCTGGATCAACCGCTTCTTCTTCTGGATGCTGTTCAACTGC
+Mouse_GULO_functional      TACCTGCCACGCCTCGTGGGCTGGATCAACCGCTTCTTCTTCTGGCTGCTGTTCAACTGC
+Dog_GULO_functional        TTCCTGCCAGGCCTCGTGGGCTGGATCAATCGCTTCTTCTTCTGGCTCCTGTTCACCAGG
+                           * * ***   **** **************  **** ** **   *   **  *       
+
+Human_GULO_pseudogene      TGCCAGGAGAACAGCAACCTCAGCCCCAAGATCTTCACCCACGTGTGCCACTTCAAGCAG
+Rat_GULO_functional        AAGAAGGAGAGCAGCAACCTCAGTCACAAGATCTTCACCTACGAGTGTCGCTTCAAGCAG
+Mouse_GULO_functional      AAGAAGGAGAGCAGCAACCTCAGCCACAAGATCTTCTCCTACGAGTGTCGCTTCAAGCAG
+Dog_GULO_functional        AAGAAGGAGAGCAGCGACCTCAGCCACAAGATCTTCACGTACGAGTGCCGCTTCAAGCAG
+                               ****** **** ******* * ********** *  *** *** * **********
+
+Human_GULO_pseudogene      CATGTCCAGCACTGGGCCATCCCCAGGGGAAAGAAGACCACGGAGGCCCTGCTGGAGCTG
+Rat_GULO_functional        CATGTACAAGACTGGGCCATCCCTAGGGA---GAAGACCAAGGAGGCCCTACTGGAGCTA
+Mouse_GULO_functional      CATGTCCAAGACTGGGCCATCCCCAGGGA---GAAGACCAAGGAGGCCCTGCTGGAGCTA
+Dog_GULO_functional        CACGTCCAGGACTGGGCCATCCCTAGAGA---GAAGACCAAGGAGGCCCTGCTGGAACTG
+                           ** ** **  ************* ** *    ******** ********* ***** ** 
+
+Human_GULO_pseudogene      AAGGCCGTGCTGGAGGCCCACCCTGAGGTGGTGTCCCACTACCTGGTGGGGGTACGCTTC
+Rat_GULO_functional        AAGGCCATGCTGGAGGCCCACCCCAAAGTGGTAGCCCACTACCCCGTAGAGGTGCGCTTC
+Mouse_GULO_functional      AAGGCCATGCTGGAGGCCCACCCCAAGGTGGTAGCCCACTACCCCGTGGAGGTGCGCTTC
+Dog_GULO_functional        AAAGCCATGCTGGAGGCCCACCCCAAGATGGTGGCCCACTTCCCTGTGGAGGTCCGCTTC
+                           ** *** ****************  *  ****  ****** **  ** * *** ******
+
+Human_GULO_pseudogene      ACCT-GGAGGATGACATCCTACTGAGCCCCTGCTTCCAGTGGGACAGCCGCTACCTGAAC
+Rat_GULO_functional        ACCCGAGGCGATGACATTCTGCTGAGCCCCTGCTTCCAGAGGGACAGCTGCTACATGAAC
+Mouse_GULO_functional      ACCCGAGGTGATGACATCCTGCTGAGCCCGTGCTTCCAGAGGGACAGCTGCTACATGAAC
+Dog_GULO_functional        ACCCGCGGGGATGACATCCTGCTGAGCCCCTGCTTCCAGAGGGACAGCTGCTACATGAAC
+                           ***   *  ******** ** ******** ********* ******** ***** *****
+
+Human_GULO_pseudogene      ATCAACCTGTACAGGTGCCACACTGTA---------------------------------
+Rat_GULO_functional        ATCATTATGTACAGGCCCTATGGAAAGGACGTGCCTCGGCTAGACTACTGGCTGGCCTAT
+Mouse_GULO_functional      ATCATTATGTACAGGCCCTATGGGAAGGATGTGCCTCGGTTGGATTACTGGCTGGCCTAT
+Dog_GULO_functional        ATCATCATGTACAGGCCCTACGGCAAGGATGTGCCACGGCTGGACTACTGGCTGACCTAC
+                           ****   ********  * *                                        
+
+Human_GULO_pseudogene      ----------------------------------------------------------CC
+Rat_GULO_functional        GAGACCATCATGAAGAAGTTTGGAGGAAGACCCCACTGGGCAAAGGCCCACAATTGCACC
+Mouse_GULO_functional      GAGACCATCATGAAGAAGTTTGGAGGCAGGCCCCACTGGGCAAAGGCCCACAATTGCACC
+Dog_GULO_functional        GAGACCATCATGAAGAAGGTCGGGGGCAGGCCCCACTGGGCCAAGGCCCACAACTGTACC
+                                                                                     **
+
+Human_GULO_pseudogene      TCAAAGAACTTTGAGAAAATGCATCCTGCCTTCCCAAAGTTCTGTGCCATCTGAGAAAAG
+Rat_GULO_functional        CGGAAGGACTTTGAGGAAATGTACCCCACCTTTCACAAGTTCTGTGACATCCGTGAGAAG
+Mouse_GULO_functional      AGGAAGGACTTTGAGAAAATGTACCCCGCCTTTCACAAGTTCTGTGACATCCGCGAGAAG
+Dog_GULO_functional        CGGAAGGACTTTGAGAAAATGTACCCAGCCTTTTCCAAGTTCTGTGCCATCCGAGAAAAG
+                              *** ******** ***** * **  ****    ********** **** * ** ***
+
+Human_GULO_pseudogene      CTAGAACCCACTGGGATGTTCCTAAATTTGTATTTGGAGAAGGTGTTCTACTGA------
+Rat_GULO_functional        CTGGACCCCACTGGAATGTTCTTGAATTCGTACCTGGAGAAAGTCTTCTACTAAAGCAGG
+Mouse_GULO_functional      CTGGACCCCACTGGAATGTTCTTGAATTCGTACCTGGAAAAGGTTTTCTACTAAAGTAGA
+Dog_GULO_functional        CTGGACCCCACCGGGATGTTCCTGAACGCGTATCTGGAGAAGGTGTTCTACTGA------
+                           ** ** ***** ** ****** * **   ***  **** ** ** ******* *      
+
+Human_GULO_pseudogene      ------------------------------------------------------------
+Rat_GULO_functional        AGTGGAAACAAACCACCCTGACCCCTCACACTTCTGCTGCCCCCGGGGGTCTGGGGAGCA
+Mouse_GULO_functional      AGCAGAAGCAAGCTGCCCTGACCCCTCACTTCTGCTGCC--T--TGGGGGGGGGGGGGCA
+Dog_GULO_functional        ------------------------------------------------------------
+                                                                                       
+
+Human_GULO_pseudogene      ------------------------------------------------------------
+Rat_GULO_functional        GAGAAGTGCCTCACAAGCACAATGGGAACTGACCTCTCCTCCTGACCACAAAGAAAGGCT
+Mouse_GULO_functional      GGGCAGTGTCTCACAGGCACAGTGGGAGACGACCTCTCC---TGAACACAAGGAGGGGCT
+Dog_GULO_functional        ------------------------------------------------------------
+                                                                                       
+
+Human_GULO_pseudogene      ------------------------------------------------------------
+Rat_GULO_functional        GGGCTCTGGGCGGGTCCTCTCTGCCTTCGGCATCA-TTTCCCTTACATCCAGGCAAGAAG
+Mouse_GULO_functional      GGGCTCTGGCCGAGGCCTCT--GCCTTCTTTATCATCTTCATAACACCCCAGGCAAGAAG
+Dog_GULO_functional        ------------------------------------------------------------
+                                                                                       
+
+Human_GULO_pseudogene      ------------------------------------------------------------
+Rat_GULO_functional        TGGCCTCTCACTCAAATTCCTGTTAGCATTTCCATGGGTCACACATAAACTGCAATCCTC
+Mouse_GULO_functional      TGGCCTCTCACTCAAATTCCTGTTTGCATCTCCACGAGCCATACATAAACTACAATCATC
+Dog_GULO_functional        ------------------------------------------------------------
+                                                                                       
+
+Human_GULO_pseudogene      ------------------------------------------------------------
+Rat_GULO_functional        TCAGGAGAAGGGGGATCCCTGATACATCATATCTATCCAGACTAAGGATGTGGTTCTTCC
+Mouse_GULO_functional      TCAGGAAAAGGGGTTCCCC--TTGCATCATATCTGTCCAGGCTAAGGATTTGGTC-CTTC
+Dog_GULO_functional        ------------------------------------------------------------
+                                                                                       
+
+Human_GULO_pseudogene      ------------------------------------------------------------
+Rat_GULO_functional        TAGATTCTATGGCTCCACCAGGTATAGAGAGATTCCTGGGGCCTGCAGTTCTCCATCCCT
+Mouse_GULO_functional      TAGGTTCTACTGGTCCACCAAGTATAGAGAGATCCCTGGGGCCTGCAGTTTTCCCTCCCT
+Dog_GULO_functional        ------------------------------------------------------------
+                                                                                       
+
+Human_GULO_pseudogene      ------------------------------------------------------------
+Rat_GULO_functional        CTTCAGAAGGGAGGGATCCCTTGGCGAGAGTTTGGCTCAGAGGTGGCATGAAGCATGCTC
+Mouse_GULO_functional      CTTCAGAAGGGATCTCTT--------------GGCAACAGAGGTAGCATGAGGCATGCTC
+Dog_GULO_functional        ------------------------------------------------------------
+                                                                                       
+
+Human_GULO_pseudogene      ------------------------------------------------------------
+Rat_GULO_functional        TGCTCTCTCTTACCCTTGAAGGTCCTTCGGATGCCCAGAGATGTCT-GCTGGTCCTGGGC
+Mouse_GULO_functional      TGCTTACTTTTATCCTTAAAGGCCTTTCAGATGCCCAGAGTCTGTCTGTTGGTCCTGAGC
+Dog_GULO_functional        ------------------------------------------------------------
+                                                                                       
+
+Human_GULO_pseudogene      ------------------------------------------------------------
+Rat_GULO_functional        AAGCCATCATTCAAACGGGTCCAACCTGGCCTTCTGTCTGCCATGGCCTGACCCTCGCAG
+Mouse_GULO_functional      AAGCCAT-CTTCCAGATGGGTCCACGTGGCCTTCTGACTGCCATGGCCTGGCCCTCACAG
+Dog_GULO_functional        ------------------------------------------------------------
+                                                                                       
+
+Human_GULO_pseudogene      ------------------------------------------------------------
+Rat_GULO_functional        TGTCTCTTCCAG-AGGTGTTTAGAGTGGAACTCGCTTCAACCTCTTAACCAGTTGCTGAT
+Mouse_GULO_functional      TGTCTCTTTCGGGTGGTGTTTAGAGTGGAATTTGCCTCGTCTTCTTAACCAGTTCCTGTT
+Dog_GULO_functional        ------------------------------------------------------------
+                                                                                       
+
+Human_GULO_pseudogene      ------------------------------------------------------------
+Rat_GULO_functional        CCCTGTGTTTC---TCTCCCTTCTCCTTGGAGAC-TACTCTTGGAGGGGGATCCCACCAT
+Mouse_GULO_functional      AGATCCCTGTGTTTTCTCCCTTCACCTCAGAGACAATTCTTTGGGCTGGGATCTCGCCGT
+Dog_GULO_functional        ------------------------------------------------------------
+                                                                                       
+
+Human_GULO_pseudogene      ------------------------------------------------------------
+Rat_GULO_functional        GTCCTTGGCTTTCCCTGGGTATTGTTCTCCTCTTCCTCTTCACAAATATGATTTCAGTTT
+Mouse_GULO_functional      GTCCCTGGGTTTCCCTGGGTCTTGGTTTCATCTTTCTCTTCACAGAGATGATTTCAGTT-
+Dog_GULO_functional        ------------------------------------------------------------
+                                                                                       
+
+Human_GULO_pseudogene      ------------------------------------------------------------
+Rat_GULO_functional        GATTTGTGGCCTTTCTGGAGTGTTCCTTGGAGAACCAAGATGTTCCAGCTACTTTGTAAG
+Mouse_GULO_functional      TATTTGTGGCCTTTCTGGAATGTTCCTTGGAGAGCCAATATGTTCCAGGTACTTTGTCAG
+Dog_GULO_functional        ------------------------------------------------------------
+                                                                                       
+
+Human_GULO_pseudogene      --------------------------------------------------------
+Rat_GULO_functional        AATTAAAAGGCACTGAAGATGTTAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+Mouse_GULO_functional      AATTAAAAGACTCTGAAAGAT-----------------------------------
+Dog_GULO_functional        --------------------------------------------------------
+                                                                                   
