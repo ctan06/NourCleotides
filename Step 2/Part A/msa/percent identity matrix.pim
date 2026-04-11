@@ -1,0 +1,10 @@
+#
+#
+#  Percent Identity  Matrix - created by Clustal2.1 
+#
+#
+
+     1: Human_GULO_pseudogene  100.00   72.30   72.43   73.38
+     2: Rat_GULO_functional     72.30  100.00   88.02   86.62
+     3: Mouse_GULO_functional   72.43   88.02  100.00   87.30
+     4: Dog_GULO_functional     73.38   86.62   87.30  100.00
